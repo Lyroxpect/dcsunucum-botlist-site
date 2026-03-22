@@ -37,9 +37,4 @@ Developed by Alpha Works
 <br><br>
 
 <br><br>
-
-## Contributors ✨
-
-<a href="https://github.com/vcodes-xyz/benedict/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=vcodes-xyz/benedict"/>
 </a>
