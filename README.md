@@ -1,16 +1,17 @@
 # 🚀 Discord Bot List
 
 A modern and customizable Discord bot listing platform.
-
----
-
-## 📸 Demo
-
 ## 🌟 30 Stars = Public Release
 
 When this project hits **30 ⭐**, it will be officially shared and actively maintained with new updates.
 
 ⭐ Star the repo to support the project!
+
+---
+
+## 📸 Demo
+
+
 
 <p align="center">
   <img src="assest/foto1.PNG" width="250"/>
