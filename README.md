@@ -7,14 +7,14 @@ A modern and customizable Discord bot listing platform.
 ## 📸 Demo
 
 <p align="center">
-  <img src="assets/foto1.png" width="250"/>
-  <img src="assets/foto2.png" width="250"/>
-  <img src="assets/foto3.png" width="250"/>
+  <img src="assest/foto1.PNG" width="250"/>
+  <img src="assest/foto2.PNG" width="250"/>
+  <img src="assest/foto3.PNG" width="250"/>
 </p>
 
 <p align="center">
-  <img src="assets/foto4.png" width="250"/>
-  <img src="assets/foto5.png" width="250"/>
+  <img src="assest/foto4.PNG" width="250"/>
+  <img src="assest/foto5.PNG" width="250"/>
 </p>
 
 ---
