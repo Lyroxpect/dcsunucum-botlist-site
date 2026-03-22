@@ -1,40 +1,59 @@
-# Discord Bot List
+# 🚀 Discord Bot List
 
+A modern and customizable Discord bot listing platform.
 
-## Developers
+---
+
+## 📸 Demo
+
+<p align="center">
+  <img src="assets/foto1.png" width="250"/>
+  <img src="assets/foto2.png" width="250"/>
+  <img src="assets/foto3.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="assets/foto4.png" width="250"/>
+  <img src="assets/foto5.png" width="250"/>
+</p>
+
+---
+
+## 👨‍💻 Developers
 
 <table>
    <tr>
-      <td align="center"><a href="https://github.com/clqu">
-        <img src="https://github.com/clqu.png?size=100" width="100px;" alt=""/>
-        <br />
-        <sub><b>clqu</b></sub></a><br />
-     </td>
-      <td align="center"><a href="https://github.com/lyroxpect">
-        <img src="https://github.com/lyroxpect.png?size=100" width="100px;" alt=""/>
-        <br />
-        <sub><b>Lyrox</b></sub></a><br />
-     </td>
+      <td align="center">
+        <a href="https://github.com/clqu">
+          <img src="https://github.com/clqu.png?size=100" width="100px;" alt=""/>
+          <br />
+          <sub><b>clqu</b></sub>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/lyroxpect">
+          <img src="https://github.com/lyroxpect.png?size=100" width="100px;" alt=""/>
+          <br />
+          <sub><b>Lyrox</b></sub>
+        </a>
+      </td>
    </tr>
 </table>
 
-<br><br>
+---
 
-## Terms of Use
+## 📜 Terms of Use
 
-<a>- You have the permission to shoot and share videos, but you have to mention us and our server in the video.</a><br>
-<a>- You cannot use our branding anywhere on your site & claim it as your own.</a><br>
-<a>- You have the permission to share in writing, but you have to mention us, our server, in the article.</a><br>
-<a>- You can't speak in a "we did it" way.</a><br>
-<a>- You cannot sell this</a><br>
-<a>- Don't touch this part on footer;</a><br>
-
-```
-Developed by Alpha Works
-```
+- You have the permission to shoot and share videos, but you must mention us and our server.
+- You cannot use our branding anywhere on your site or claim it as your own.
+- You may share written content, but you must mention us and our server.
+- Do not speak in a "we did it" way.
+- You cannot sell this project.
+- Do not modify the footer below.
 
 
-<br><br>
+---
 
-<br><br>
-</a>
+## ⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
